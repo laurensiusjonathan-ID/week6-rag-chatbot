@@ -1,0 +1,15 @@
+PT AIEA
+EMPLOYEE MEDICAL EXPENSE REIMBURSEMENT FORM
+
+Name       : SITI RAHMAWATI
+Department : IT
+ID No.     : 216739
+
+No | Receipt Date | Receipt Amount | Company Covered | Treatment Code            
+1  | 2024-07-08   | Rp 680.000     | Rp 680.000      | 2 - pediatric consultation
+2  | 2024-07-22   | Rp 1.550.000   | Rp 1.550.000    | 2 - child vaccination     
+
+Total             | Rp 2.230.000   | Rp 2.230.000   
+
+Submission Date : 24 July 2024
+Applicant       : SITI RAHMAWATI

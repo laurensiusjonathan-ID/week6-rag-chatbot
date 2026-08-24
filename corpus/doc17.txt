@@ -1,0 +1,16 @@
+PT AIEA
+EMPLOYEE MEDICAL EXPENSE REIMBURSEMENT FORM
+
+Name       : BUDI SANTOSO
+Department : IT
+ID No.     : 126225
+
+No | Receipt Date | Receipt Amount | Company Covered | Treatment Code           
+1  | 2024-11-05   | Rp 550.000     | Rp 550.000      | 9 - physiotherapy session
+2  | 2024-11-12   | Rp 550.000     | Rp 550.000      | 9 - physiotherapy session
+3  | 2024-11-19   | Rp 550.000     | Rp 550.000      | 9 - physiotherapy session
+
+Total             | Rp 1.650.000   | Rp 1.650.000   
+
+Submission Date : 21 November 2024
+Applicant       : BUDI SANTOSO

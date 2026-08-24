@@ -1,0 +1,16 @@
+PT AIEA
+FORMULIR PENGGANTIAN BIAYA PENGOBATAN KARYAWAN
+MEDICAL CLAIM REQUEST FORM
+
+Nama       : DEWI LESTARI
+Departemen : Human Resources
+N.I.K      : 419862
+
+No | Tgl Kwitansi | Nilai Kwitansi | Ditanggung Perusahaan | Kode Pengobatan       
+1  | 2024-07-02   | Rp 475.000     | Rp 475.000            | 8 - cabut gigi        
+2  | 2024-07-16   | Rp 2.500.000   | Rp 2.500.000          | 8 - cicilan kawat gigi
+
+Total             | Rp 2.975.000   | Rp 2.975.000         
+
+Tanggal Pengajuan : 18 Juli 2024
+Pemohon           : DEWI LESTARI

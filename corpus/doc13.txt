@@ -1,0 +1,16 @@
+PT AIEA
+FORMULIR PENGGANTIAN BIAYA PENGOBATAN KARYAWAN
+MEDICAL CLAIM REQUEST FORM
+
+Nama       : SITI RAHMAWATI
+Departemen : IT
+N.I.K      : 216739
+
+No | Tgl Kwitansi | Nilai Kwitansi | Ditanggung Perusahaan | Kode Pengobatan      
+1  | 2024-08-06   | Rp 750.000     | Rp 750.000            | 7 - periksa kehamilan
+2  | 2024-08-13   | Rp 900.000     | Rp 900.000            | 3 - USG kehamilan    
+
+Total             | Rp 1.650.000   | Rp 1.650.000         
+
+Tanggal Pengajuan : 15 Agustus 2024
+Pemohon           : SITI RAHMAWATI

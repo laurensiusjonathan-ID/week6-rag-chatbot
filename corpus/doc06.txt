@@ -1,0 +1,16 @@
+PT AIEA
+FORMULIR PENGGANTIAN BIAYA PENGOBATAN KARYAWAN
+MEDICAL CLAIM REQUEST FORM
+
+Nama       : AGUS WIBOWO
+Departemen : Finance
+N.I.K      : 308451
+
+No | Tgl Kwitansi | Nilai Kwitansi | Ditanggung Perusahaan | Kode Pengobatan           
+1  | 2024-01-10   | Rp 275.000     | Rp 275.000            | 1 - konsultasi dokter umum
+2  | 2024-01-10   | Rp 420.000     | Rp 420.000            | 3 - tes darah             
+
+Total             | Rp 695.000     | Rp 695.000           
+
+Tanggal Pengajuan : 12 Januari 2024
+Pemohon           : AGUS WIBOWO

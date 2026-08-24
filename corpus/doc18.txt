@@ -1,0 +1,14 @@
+PT AIEA
+EMPLOYEE MEDICAL EXPENSE REIMBURSEMENT FORM
+
+Name       : DEWI LESTARI
+Department : Human Resources
+ID No.     : 419862
+
+No | Receipt Date | Receipt Amount | Company Covered | Treatment Code                 
+1  | 2024-10-08   | Rp 950.000     | Rp 950.000      | 8 - dental cleaning and scaling
+
+Total             | Rp 950.000     | Rp 950.000     
+
+Submission Date : 10 October 2024
+Applicant       : DEWI LESTARI

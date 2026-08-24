@@ -1,0 +1,16 @@
+PT AIEA
+FORMULIR PENGGANTIAN BIAYA PENGOBATAN KARYAWAN
+MEDICAL CLAIM REQUEST FORM
+
+Nama       : BUDI SANTOSO
+Departemen : IT
+N.I.K      : 126225
+
+No | Tgl Kwitansi | Nilai Kwitansi | Ditanggung Perusahaan | Kode Pengobatan 
+1  | 2024-03-07   | Rp 218.377     | Rp 218.377            | 2 - berobat anak
+2  | 2024-03-19   | Rp 457.079     | Rp 457.079            | 2 - berobat anak
+
+Total             | Rp 675.456     | Rp 675.456           
+
+Tanggal Pengajuan : 21 Maret 2024
+Pemohon           : BUDI SANTOSO

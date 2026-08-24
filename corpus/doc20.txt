@@ -1,0 +1,15 @@
+PT AIEA
+EMPLOYEE MEDICAL EXPENSE REIMBURSEMENT FORM
+
+Name       : AGUS WIBOWO
+Department : Finance
+ID No.     : 308451
+
+No | Receipt Date | Receipt Amount | Company Covered | Treatment Code          
+1  | 2024-12-02   | Rp 18.500.000  | Rp 18.500.000   | 6 - appendectomy surgery
+2  | 2024-12-03   | Rp 6.500.000   | Rp 6.500.000    | 6 - hospitalization     
+
+Total             | Rp 25.000.000  | Rp 25.000.000  
+
+Submission Date : 10 December 2024
+Applicant       : AGUS WIBOWO

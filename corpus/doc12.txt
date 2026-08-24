@@ -1,0 +1,15 @@
+PT AIEA
+EMPLOYEE MEDICAL EXPENSE REIMBURSEMENT FORM
+
+Name       : AGUS WIBOWO
+Department : Finance
+ID No.     : 308451
+
+No | Receipt Date | Receipt Amount | Company Covered | Treatment Code              
+1  | 2024-05-15   | Rp 3.500.000   | Rp 3.500.000    | 12 - annual medical check-up
+2  | 2024-05-15   | Rp 680.000     | Rp 680.000      | 3 - blood panel test        
+
+Total             | Rp 4.180.000   | Rp 4.180.000   
+
+Submission Date : 17 May 2024
+Applicant       : AGUS WIBOWO

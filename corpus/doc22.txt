@@ -1,0 +1,68 @@
+MEDICAL CLAIMS FAQ
+PT AIEA - Human Capital Division
+Companion to policy POL-HRD-014 (Kebijakan Manfaat Kesehatan Karyawan), Revision 3, effective 1 January 2024.
+
+
+Q: Who is covered by the medical benefit?
+
+A: Permanent employees are enrolled automatically from their effective hire date, but coverage only starts after they pass probation. Immediate family - a legal spouse, and children under 21, or under 25 if still a full-time student - are covered once registered with HR within 30 calendar days of the marriage or birth. Employees on contracts of 12 months or longer get outpatient benefits only; surgery and hospitalization (code 6) are not covered for them. See Policy Section 1.
+
+
+Q: Where do I get the claim form?
+
+A: Download it from the HR portal or pick one up at the Human Capital office (Room 4.02, Building A). The official form titles are "FORMULIR PENGGANTIAN BIAYA PENGOBATAN KARYAWAN" and "EMPLOYEE MEDICAL EXPENSE REIMBURSEMENT FORM". Fill in name, NIK, department, receipt date, amount, and the treatment code for every service row. See Policy Section 3.
+
+
+Q: How do I fill in the treatment code correctly?
+
+A: Use codes 1-12 from the table in Policy Section 2. For example, a dental filling, extraction, or root canal is code 8; an X-ray or lab test is code 3; physiotherapy is code 9. The code must match what is written on the receipt - a wrong or missing code is the most common reason a claim stalls. Code 5 is reserved and not in use yet.
+
+
+Q: When is the deadline for submitting a claim?
+
+A: Within 30 working days of the receipt date. Hand the form and receipts to HR by Thursday, because claims are processed in a weekly Friday batch. Late claims are rejected and can only be retried through the appeal process. See Policy Section 3.
+
+
+Q: How long does reimbursement take?
+
+A: At most 14 working days after the claim is complete, paid by transfer to your payroll account. Claims above Rp 10,000,000 need HR Manager approval and can take up to 21 working days. See Policy Section 4.
+
+
+Q: What are the annual limits?
+
+A: The highlights: dental Rp 5,000,000 per year; maternity Rp 15,000,000 per pregnancy; surgery and hospitalization Rp 30,000,000 per event; optical Rp 3,000,000 every two years; diagnostics Rp 4,000,000 per year; annual medical check-up Rp 5,000,000 once a year; children Rp 5,000,000 per year per child. Physiotherapy is Rp 6,000,000 per year capped at 12 sessions, and mental-health consultations are Rp 8,000,000 per year capped at 12 sessions. Limits reset every 1 January and cannot be transferred between categories. The full table is in Policy Section 2.
+
+
+Q: Do family claims use my limit?
+
+A: A spouse's claims share the employee's category limits, while each child has a separate Rp 5,000,000 per year limit. Family members must be registered with HR first; unregistered family claims cannot be processed. See Policy Sections 1 and 2.
+
+
+Q: What if I lost a receipt?
+
+A: An original receipt is required. If one is lost, ask the clinic for an official replacement letter - on letterhead, stamped with materai, and signed - plus a photocopy if you still have one. Claims without any proof are not processed. Receipts above Rp 1,000,000 must carry a valid materai. See Policy Sections 3 and 5.
+
+
+Q: Is cosmetic treatment covered?
+
+A: No. Aesthetic procedures without a medical indication are excluded: cosmetic plastic surgery, teeth whitening, and non-corrective fashion eyewear. Medically necessary dentistry - fillings, scaling, extraction, root canal, and braces prescribed by a dentist - is covered under code 8 within the dental limit. See Policy Section 5.
+
+
+Q: What about a work accident?
+
+A: Work accidents and occupational illness are excluded from this policy; they are covered by BPJS Ketenagakerjaan instead. Get treated first, then coordinate with HR for the BPJS process. See Policy Section 5.
+
+
+Q: How does emergency hospitalization work?
+
+A: It is covered under code 6, up to Rp 30,000,000 per event. Notify HR within two working days of admission, then submit the claim with all receipts within the normal 30-working-day window. See Policy Sections 2 and 3.
+
+
+Q: My claim was rejected - can I appeal?
+
+A: Yes. Send a written appeal to HR within 60 calendar days of the rejection, attaching any new supporting documents. An appeal committee made up of the HR Manager and the Finance Supervisor decides within 14 working days, and the decision is final for the current year. See Policy Section 6.
+
+
+Q: Who can I ask for help?
+
+A: The Human Capital Division, Room 4.02 Building A - email hr-medical@aiea.example, internal extension 4102, Monday to Friday 09:00-16:00. See Policy Section 7.

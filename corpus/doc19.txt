@@ -1,0 +1,16 @@
+PT AIEA
+FORMULIR PENGGANTIAN BIAYA PENGOBATAN KARYAWAN
+MEDICAL CLAIM REQUEST FORM
+
+Nama       : SITI RAHMAWATI
+Departemen : IT
+N.I.K      : 216739
+
+No | Tgl Kwitansi | Nilai Kwitansi | Ditanggung Perusahaan | Kode Pengobatan
+1  | 2024-10-07   | Rp 500.000     | Rp 500.000            | 9 - fisioterapi
+2  | 2024-10-14   | Rp 500.000     | Rp 500.000            | 9 - fisioterapi
+
+Total             | Rp 1.000.000   | Rp 1.000.000         
+
+Tanggal Pengajuan : 16 Oktober 2024
+Pemohon           : SITI RAHMAWATI
