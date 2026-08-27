@@ -2,7 +2,7 @@ from store import client, models
 from store import MODEL as EMBED_MODEL
 from config import API_KEY, BASE_URL_ANTHROPIC, MODEL
 import anthropic
- 
+
 SYSTEM = (
   "Answer ONLY from the numbered sources provided. "
   "Cite like [1] or [2][3] after each claim. "
@@ -24,7 +24,7 @@ def call_llm(user: str, system: str = SYSTEM,
         extra_body={"temperature": temperature},
     )
     return resp.content[0].text
- 
+
 def answer(q: str) -> tuple[str, list]:
     hits = client.query_points("kb",
         query=models.Document(text=q, model=EMBED_MODEL),
@@ -36,16 +36,36 @@ def answer(q: str) -> tuple[str, list]:
         user=f"Sources:\n{context}\n\nQuestion: {q}")
     return reply, hits
 
+def chat() -> None:
+    last_hits: list = []
+    while True:
+        q = input("you> ").strip()
+        if q == "/quit":
+            break
+        if not q:
+            continue
+        if q == "/sources":
+            for i, h in enumerate(last_hits):
+                print(f"[{i+1}] {h.payload['source']} "
+                      f"#{h.payload['chunk']} score={h.score:.3f}")
+                print("    ", h.payload['text'][:120], "\n")
+            continue
+        reply, last_hits = answer(q)
+        print("bot>", reply)
+    client.close()
 
 if __name__ == "__main__":
     import sys
-    q = " ".join(sys.argv[1:])
-    a, hits = answer(q)
-    print(f"=== Question ===\n{q}\n")
-    print(f"=== Answer ===\n{a}\n")
-    print("=== Sources ===")
-    for i, h in enumerate(hits):
-        print(f"[{i+1}] ({h.payload['source']} #{h.payload['chunk']})")
-        print(h.payload['text'])
-        print()
-    client.close()
+    if len(sys.argv) > 1:   # one-shot: python rag.py "question"
+        q = " ".join(sys.argv[1:])
+        a, hits = answer(q)
+        print(f"=== Question ===\n{q}\n")
+        print(f"=== Answer ===\n{a}\n")
+        print("=== Sources ===")
+        for i, h in enumerate(hits):
+            print(f"[{i+1}] ({h.payload['source']} #{h.payload['chunk']})")
+            print(h.payload['text'])
+            print()
+        client.close()
+    else:                   # interactive: python rag.py
+        chat()
